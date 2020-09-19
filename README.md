@@ -1,4 +1,4 @@
-# LANGUAGE TRANSLATION APPLICATION
+# LANGUAGE TRANSLATOR
 
 -----------------------------------------------------------------------------------------
 
